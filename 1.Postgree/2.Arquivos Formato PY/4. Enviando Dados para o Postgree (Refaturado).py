@@ -22,7 +22,7 @@ df.rename( columns={ 'Classificacao_da_Ocorrência' : 'Classificacao_da_Ocorrenc
 # Parâmetros de conexão
 dbname = 'python'
 user = 'postgres'
-password = '0415Petrol'
+password = '************'
 host = 'localhost'
 port = '5432'
 
