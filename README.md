@@ -56,7 +56,7 @@ MongoDB
 Módulo	Status
 Ambiente	✅ Concluído
 PostgreSQL	✅ Concluído
-MySQL	⏳ Em breve
+MySQL	✅ Concluído
 SQLite	⏳ Em breve
 SQL Server	⏳ Em breve
 Google BigQuery	⏳ Em breve
