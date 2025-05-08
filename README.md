@@ -55,16 +55,25 @@ MongoDB
 
 Módulo	Status
 Ambiente	✅ Concluído
+
 PostgreSQL	✅ Concluído
+
 MySQL	✅ Concluído
+
 SQLite	⏳ Em breve
+
 SQL Server	⏳ Em breve
+
 Google BigQuery	⏳ Em breve
+
 MongoDB	⏳ Em breve
+
 ETL e APIs	⏳ Em breve
+
 
 
 ✍️ Autor
 Gustavo Petrolini
 https://github.com/GPetrolini
+
 https://www.linkedin.com/in/gustavo-petrolini-885080213/
