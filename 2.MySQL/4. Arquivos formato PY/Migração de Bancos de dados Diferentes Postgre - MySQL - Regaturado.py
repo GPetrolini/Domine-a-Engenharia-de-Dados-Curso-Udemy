@@ -4,7 +4,7 @@ import pandas as pd
 
 #Conexoes
 
-eng_postgre = create_engine('postgresql://postgres:0415Petrol@localhost:5432/python')
+eng_postgre = create_engine('postgresql://postgres:*******@localhost:5432/python')
 eng_mysql = create_engine("mysql+pymysql://root:12345@localhost/python")
 query = """
 
