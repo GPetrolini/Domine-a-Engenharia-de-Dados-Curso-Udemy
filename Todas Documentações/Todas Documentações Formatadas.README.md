@@ -1,4 +1,4 @@
-1. PostgreSQL
+1. PostgreSQL 
 
 psycopg2 (Driver Python para PostgreSQL):
 https://www.psycopg.org/docs/
