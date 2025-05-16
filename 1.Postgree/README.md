@@ -32,4 +32,4 @@ Foram usados scripts em Python para:
 
 ### 📦 Biblioteca utilizada:
 ```python
-import psycopg2
+import psycopg2 

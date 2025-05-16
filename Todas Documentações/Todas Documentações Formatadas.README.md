@@ -1,7 +1,7 @@
-1. PostgreSQL
+1. PostgreSQL 
 
 psycopg2 (Driver Python para PostgreSQL):
-https://www.psycopg.org/docs/
+https://www.psycopg.org/docs/ 
 
 PL/Python (Procedural Language Python for PostgreSQL):
 https://www.postgresql.org/docs/current/plpython.html
