@@ -14,7 +14,7 @@ Capacitar o aluno desde os fundamentos até tópicos avançados em engenharia de
   - PostgreSQL ✅
   - MySQL ✅
   - SQLite ✅
-  - SQL Server ⏳ Em breve
+  - SQL Server ✅ 
   - Google BigQuery ⏳ Em breve
   - MongoDB (NoSQL) ⏳ Em breve
 
@@ -62,7 +62,7 @@ Ambiente       | ✅ Concluído
 PostgreSQL     | ✅ Concluído
 MySQL          | ✅ Concluído
 SQLite         | ✅ Concluído
-SQL Server     | ⏳ Em breve
+SQL Server     | ✅ Concluído
 Google BigQuery| ⏳ Em breve
 MongoDB        | ⏳ Em breve
 ETL e APIs     | ⏳ Em breve
