@@ -1,2 +1,48 @@
-# Google Cloud Service Account Key
+# Ignorar arquivos de credenciais do Google BigQuery
 pythoncurso-462414-f5463d5035ab.json
+
+# Se você tiver algum arquivo Python onde as credenciais foram coladas (e você já moveu para o JSON)
+# Você pode adicionar padrões para ignorá-los também, se necessário, ou remover as credenciais deles.
+# Exemplo:
+# meus_scripts_secretos.py
+
+# Arquivos de ambiente virtual Python
+.venv/
+venv/
+env/
+/bin/
+/include/
+/lib/
+/lib64/
+/share/
+
+# Arquivos de cache e compilação do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+.nox/
+.mypy_cache/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Dados temporários ou de output (se não forem versionados)
+*.csv
+*.xlsx
+*.parquet
+*.json # Cuidado com isso, se você tiver outros JSONs que PRECISAM ser versionados, seja mais específico.
+       # Por exemplo, ignore apenas JSONs de credenciais.
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
