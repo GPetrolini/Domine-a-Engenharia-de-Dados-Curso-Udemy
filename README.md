@@ -1,72 +1,58 @@
-## Domine a Engenharia de Dados – Curso Udemy 🚀
+# Domine a Engenharia de Dados – Jornada de Estudos 🚀
 
-Este repositório reúne os aprendizados e projetos realizados ao longo do curso "Domine a Engenharia de Dados inicie sua Preparação para a Profissão da Área de Tecnologia que mais Cresce no mundo!", focado em preparar profissionais para os desafios reais da área de dados.
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</div>
 
-## Objetivo do Curso
-Capacitar o aluno desde os fundamentos até tópicos avançados em engenharia de dados, abordando bancos de dados relacionais e não relacionais, técnicas de ETL, integração com APIs e uso de Python para automação e manipulação de dados.
+## 📖 Sobre o Repositório
 
-## Conteúdo Estudado
-- Instalação e configuração de ambiente
+Este repositório é o meu diário de bordo e portfólio prático do curso **"Domine a Engenharia de Dados"** da Udemy. Aqui estão todos os scripts, anotações e projetos desenvolvidos, cobrindo desde os fundamentos de bancos de dados até a criação de pipelines de ETL com Python.
 
-- Modelagem de dados e criação de diagramas
+O objetivo é documentar minha evolução e criar um acervo de scripts prontos para consulta e demonstração de habilidades na área de dados.
 
-- Trabalho com diferentes SGBDs:
-  - PostgreSQL ✅
-  - MySQL ✅
-  - SQLite ✅
-  - SQL Server ✅ 
-  - Google BigQuery ✅ 
-  - MongoDB (NoSQL) ✅ 
+---
 
-- Integração de Python com bancos de dados
+## ✨ Tecnologias e Ferramentas
 
-- Criação de pipelines ETL com Python
+A caixa de ferramentas utilizada ao longo deste curso inclui:
 
-- Carga incremental de dados
+* **Linguagem Principal:** Python 3
+* **Bibliotecas Python:** Pandas (para manipulação de dados), Psycopg2, mysql-connector-python, etc.
+* **Bancos de Dados Relacionais (SQL):** PostgreSQL, MySQL, SQLite, Microsoft SQL Server
+* **Data Warehouse na Nuvem:** Google BigQuery
+* **Banco de Dados Não Relacional (NoSQL):** MongoDB
+* **Ferramentas de SGBD:** DBeaver
+* **Versionamento:** Git e GitHub
 
-- Introdução a APIs
+---
 
-- Manipulação de dados com SQL e NoSQL
+## 📂 Estrutura e Conteúdo
 
-- Migração de dados entre bancos
+O repositório está organizado em pastas numeradas, cada uma correspondendo a um módulo ou tecnologia específica estudada no curso.
 
-- Mais de 100 scripts prontos para portfólio
+* `📁 1.Postgree/` - Scripts e conceitos de modelagem e manipulação de dados com **PostgreSQL**.
+* `📁 2.MySQL/` - Práticas e scripts utilizando **MySQL**.
+* `📁 3.SQLite/` - Exemplos com o banco de dados leve **SQLite**.
+* `📁 4.ETL Pandas/` - Desenvolvimento de pipelines de Extração, Transformação e Carga com **Python e Pandas**.
+* `📁 5.SQL Server/` - Conexão e manipulação de dados no **Microsoft SQL Server**.
+* `📁 6.APIs/` - Scripts para consumo e integração de dados via **APIs**.
+* `📁 7.Google BIgQuery/` - Estudos sobre o Data Warehouse do Google Cloud, o **BigQuery**.
+* `📁 8.MongoDB/` - Introdução e práticas com o banco de dados NoSQL **MongoDB**.
+* `📁 Todas documentações/` - Arquivos de documentação e materiais de apoio do curso.
 
-## Ferramentas e Tecnologias
-- Python (com bibliotecas específicas para conexão com SGBDs)
-- DBeaver
-- Visual Studio Code
-- PostgreSQL, MySQL, SQLite, SQL Server
-- Google BigQuery
-- MongoDB
+---
 
-## Organização do Repositório
-```
-.
-├── README.md                     # Este arquivo
-├── postgresql/                  # Scripts e exemplos com PostgreSQL
-│   └── README.md                # Detalhes específicos do aprendizado com PostgreSQL
-├── mysql/                       # Scripts e exemplos com MySQL
-│   └── README.md                # Detalhes específicos do aprendizado com MySQL
-├── sqlite/                      # Scripts e exemplos com SQLite
-│   └── README.md                # Detalhes específicos do aprendizado com SQLite
-├── sql_server/                  # (a ser adicionado)
-├── bigquery/                    # (a ser adicionado)
-├── mongodb/                     # (a ser adicionado)
-```
+## 📫 Contato
 
-## Status de Aprendizado
-Módulo         | Status
----------------|--------
-Ambiente       | ✅ Concluído
-PostgreSQL     | ✅ Concluído
-MySQL          | ✅ Concluído
-SQLite         | ✅ Concluído
-SQL Server     | ✅ Concluído
-Google BigQuery| ✅ Concluído
-MongoDB        | ✅ Concluído
-ETL e APIs     | ✅ Concluído
+Vamos nos conectar e trocar experiências!
 
-## Autor
-Gustavo Petrolini
-[GitHub](https://github.com/GPetrolini) | [LinkedIn](https://www.linkedin.com/in/gustavo-petrolini-885080213/)
+<a href="https://www.linkedin.com/in/gustavo-petrolini/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:guspetrolini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
